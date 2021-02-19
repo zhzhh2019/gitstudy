@@ -7,3 +7,4 @@ change from remote1
 chage from local2
 chage from local3
 change from remote6
+change from local6
